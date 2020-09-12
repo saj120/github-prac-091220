@@ -1,3 +1,7 @@
-# Demo 2
+# Javascript Crash Course
 
-Some text
+Link: https://www.youtube.com/watch?v=hdI2bqOjy3c&t=590s
+
+Traversy 
+
+TIMESTAMP: 13:43
